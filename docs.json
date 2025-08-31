@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Coastline Roleplay",
   "colors": {
     "primary": "#2eaef3",
     "light": "#2eaef3",
     "dark": "#155B85"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/clrpblue.png",
   "navigation": {
     "tabs": [
       {
