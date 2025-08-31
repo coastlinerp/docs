@@ -105,23 +105,13 @@
       "href": "https://dashboard.mintlify.com"
     }
   },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "discord": "https://discord.gg/coastline",
+      "website": "https://roblox.com/communities/34274464/Coastline-Roleplay#!/about",
+      "youtube": "https://youtube.com/@CoastlineRoleplayERLC",
+      "earth-americas": "https://www.tiktok.com/@coastlinerp01",
+      "x": "https://x.com/coastlinerperlc"
     }
   }
 }
